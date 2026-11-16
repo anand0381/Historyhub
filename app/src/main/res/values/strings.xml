@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HistoryHub</string>
+    <string name="app_subtitle">This Day in History</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="logged_in_as">Logged in as:</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">user@example.com</string>
+    <string name="signed_in_success">Signed in successfully!</string>
+    <string name="signed_out_success">Signed out successfully!</string>
+    <string name="sign_in_cancelled">Sign-in cancelled</string>
+    <string name="sign_in_failed">Sign-in failed: %1$s</string>
+
+    <string name="change_date">Change Date</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="view_bookmarks">View Bookmarks</string>
+    <string name="show_history">Show History</string>
+    <string name="tab_events">Events</string>
+    <string name="tab_births">Births</string>
+    <string name="tab_deaths">Deaths</string>
+    <string name="no_events_found">No historical data found for this date.</string>
+    <string name="selected_date_label">Date: %1$s</string>
+    <string name="bookmark_added">Bookmark saved!</string>
+    <string name="bookmark_removed">Bookmark removed!</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759937837440",
+    "project_id": "historyhub-90fd4",
+    "storage_bucket": "historyhub-90fd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759937837440:android:cee03c854a0ddf417b3965",
+        "android_client_info": {
+          "package_name": "com.example.historyhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759937837440-pk71kc4ct7dgphfk6fb3isbqovlct039.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.historyhub",
+            "certificate_hash": "25c5ec4190a12d6a560c06d55552bac08ac4ab16"
+          }
+        },
+        {
+          "client_id": "759937837440-egguu1h70dcc7oonebj37q7gd9eshacv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYcoTML4IWnpJGVew6qAz3bV5Cx-lVRVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759937837440-egguu1h70dcc7oonebj37q7gd9eshacv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
